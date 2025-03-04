@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, I'm Léo, I'm a IT engineering student from University of Technology of Belfort-Montbéliard</h3>
 
-- 🔭 I’m currently working on [YGreg](https://github.com/hugoallaine/WE4A_project)
+- 🔭 I’m currently working on [minecharts](https://github.com/ZenT0x/minecharts)
 - 📫 How to reach me **leo.angonnet@utbm.fr**
 - 👨‍💻 All of my projects are available [here](https://github.com/ZenT0x?tab=repositories)
 
